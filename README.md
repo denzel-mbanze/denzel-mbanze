@@ -55,24 +55,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=denzel-mbanze&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzel-mbanze&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
 ## 📫 Contactos
 
 - GitHub: [@denzel-mbanze](https://github.com/denzel-mbanze)
